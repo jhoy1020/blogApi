@@ -35,7 +35,7 @@
     "tslint": "5.18.0",
     "tslint-config-prettier": "1.18.0",
     "tslint-react": "4.0.0",
-    "typeorm": "0.2.16",
+    "typeorm": "0.2.25",
     "uuid": "3.3.2"
   },
   "scripts": {
